@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm Deepak Raula, a passionate Computer Engineer specializing in Java, Python, AI/ML, UI/UX design and Full-Stack Developer. <br>I love building intelligent systems, optimizing algorithms, and crafting scalable web applications.<br><br>💡 What I Do:<br><br>🔥 AI/ML Enthusiast – Turning data into smart solutions.<br>💻 Full-Stack Developer – Creating seamless user experiences.<br>🚀 Problem Solver – Writing efficient, scalable code.<br>📡 Networking & Systems – Understanding how things connect.<br><br>🎯 Currently:<br>🚀 Building an EdTech Web App.<br>🎯 Preparing for MAANG Interviews.<br>📚 Exploring Advanced AI Applications.<br>
+Hey there! 👋 I'm Deepak Raula, a passionate Computer Engineer specializing in Java, Python, AI/ML, UI/UX design and Full-Stack Developer. <br>I love building intelligent systems, optimizing algorithms, and crafting scalable web applications.<br><br>💡 What I Do:<br><br>🔥 AI/ML Enthusiast – Turning data into smart solutions.<br>💻 Full-Stack Developer – Creating seamless user experiences.<br>🚀 Problem Solver – Writing efficient, scalable code.<br>📡 Networking & Systems – Understanding how things connect.<br><br>🎯 Currently:<br>🚀 Building an EdTech Web App.<br>📚 Exploring Advanced AI Applications.<br>
 
 
 ## 🌐 Socials:
